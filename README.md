@@ -1,6 +1,6 @@
 # Hi there 👋
 I am a 17 year old student who is passionate about self improvement.  
-I desire a coding career but do not know what to specialise in yet.  
+I desire a coding career and am continuously working on my skills. 
 
 ## I'm currently:
 - Attempting to create projects to stand out for universities and apprenticeships
