@@ -1,11 +1,13 @@
 # Hi there 👋
 I am a 17 year old student who is passionate about self improvement.  
-I desire a coding career and am continuously working on my skills. 
+I aim to obtain a career in the software industry.
 
 ## I'm currently:
-- Attempting to create projects to stand out for universities and apprenticeships
-- Expanding my coding knowledge 
-- Searching for guidance on how to improve my coding
+- Creating projects to:
+  - Expand my coding knowledge 
+  - Develop my project structure
+  - Learn more about the industry
+
 
 <!--
 **baorii/baorii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
