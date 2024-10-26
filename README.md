@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm an 18 year old student who is passionate about self improvement.  
+I'm an 19 year old student who is passionate about self improvement.  
 I aim to obtain a career in the software industry.
 
 ## I'm currently:
